@@ -19,3 +19,24 @@ C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\DataAccessLayer\obj\Debug\Data
 C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migration_title.resources
 C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migwriterİmage.resources
 C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writerAddStatus.resources
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations._new.resources
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.writerEdit.resources
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migration_title.resources
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migwriterİmage.resources
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writerAddStatus.resources
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

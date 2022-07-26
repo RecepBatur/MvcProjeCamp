@@ -18,3 +18,23 @@ C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\BusinessLayer\obj\Debug\Busine
 C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb
 C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.dll
 C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\recep\source\repos\RecepBatur\MvcProjeCamp\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb
