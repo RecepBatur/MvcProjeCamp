@@ -17,3 +17,5 @@ C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\DataAccessLayer\obj\Debug\Data
 C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
 C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.writerEdit.resources
 C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migration_title.resources
+C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migwriterİmage.resources
+C:\Users\recep\Desktop\c# örnekler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writerAddStatus.resources

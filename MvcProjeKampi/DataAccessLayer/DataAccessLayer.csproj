@@ -81,6 +81,14 @@
     <Compile Include="Migrations\202207252205317_migration_title.designer.cs">
       <DependentUpon>202207252205317_migration_title.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202207261527265_migwriterİmage.cs" />
+    <Compile Include="Migrations\202207261527265_migwriterİmage.designer.cs">
+      <DependentUpon>202207261527265_migwriterİmage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202207261611213_mig_writerAddStatus.cs" />
+    <Compile Include="Migrations\202207261611213_mig_writerAddStatus.designer.cs">
+      <DependentUpon>202207261611213_mig_writerAddStatus.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -103,6 +111,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202207252205317_migration_title.resx">
       <DependentUpon>202207252205317_migration_title.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202207261527265_migwriterİmage.resx">
+      <DependentUpon>202207261527265_migwriterİmage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202207261611213_mig_writerAddStatus.resx">
+      <DependentUpon>202207261611213_mig_writerAddStatus.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />
