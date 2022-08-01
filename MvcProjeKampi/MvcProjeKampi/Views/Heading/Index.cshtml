@@ -5,7 +5,13 @@
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
-@{string color = ""; }
+@{
+    string color = "";
+    string durum = "";
+    string renk = "";
+
+
+}
 
 
 <!DOCTYPE html>
@@ -115,6 +121,21 @@
                                 <td class="project-state">
                                     <span class="@color">@item.Category.CategoryName</span>
                                 </td>
+                                <td>
+                                    @*@{
+                                        if (item.HeadingStatus == true)
+                                        {
+                                            durum = "Aktif";
+                                            renk = "text-success";
+                                        }
+                                        else
+                                        {
+                                            durum = "Pasif";
+                                            renk = "text-warning";
+                                        }
+                                        <p class="@renk">@durum</p>
+                                    }*@
+                                </td>
                                 <td class="project-actions text-right">
                                     <a class="btn btn-primary btn-sm" href="/Content/ContentByHeading/@item.HeadingID">
                                         <i class="fas fa-folder">
@@ -131,6 +152,28 @@
                                         </i>
                                         Sil
                                     </a>
+                                    @*@{
+                                        if (item.HeadingStatus == true)
+                                        {
+                                            <a class="btn btn-danger btn-sm" href="/Heading/DeleteHeading/@item.HeadingID">
+                                                <i class="fas fa-trash">
+                                                </i>
+                                                Pasif Yap
+                                            </a>
+
+                                        }
+                                        else
+                                        {
+                                            <a class="btn btn-danger btn-sm" href="/Heading/DeleteHeading/@item.HeadingID">
+                                                <i class="fas fa-trash">
+                                                </i>
+                                                Aktif Yap
+                                            </a>
+                                        }
+
+
+                                    }*@
+
                                 </td>
                             </tr>
                         }
