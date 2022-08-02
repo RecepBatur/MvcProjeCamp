@@ -1,4 +1,6 @@
-﻿using System;
+﻿using BusinessLayer.Concrete;
+using DataAccessLayer.EntityFrameWork;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,10 +10,11 @@ namespace MvcProjeKampi.Controllers
 {
     public class MessageController : Controller
     {
-       MessageManager mm = new MessageManager(new EfMessageDal())
+        MessageManager mm = new MessageManager(new EfMessageDal());
         public ActionResult Inbox()
         {
-            return View();
+            var messageList = mm.GetList();
+            return View(messageList);
         }
     }
 }

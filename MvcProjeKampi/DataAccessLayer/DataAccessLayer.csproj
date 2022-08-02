@@ -69,6 +69,7 @@
     <Compile Include="EntityFrameWork\EfContactDal.cs" />
     <Compile Include="EntityFrameWork\EfContentDal.cs" />
     <Compile Include="EntityFrameWork\EfHeadingDal.cs" />
+    <Compile Include="EntityFrameWork\EfMessageDal.cs" />
     <Compile Include="EntityFrameWork\EfWriterDal.cs" />
     <Compile Include="Migrations\202206121520151_new.cs" />
     <Compile Include="Migrations\202206121520151_new.designer.cs">
