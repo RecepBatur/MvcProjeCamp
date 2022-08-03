@@ -13,7 +13,12 @@ namespace MvcProjeKampi.Controllers
         MessageManager mm = new MessageManager(new EfMessageDal());
         public ActionResult Inbox()
         {
-            var messageList = mm.GetList();
+            var messageList = mm.GetListInbox();
+            return View(messageList);
+        }
+        public ActionResult SendBox()
+        {
+            var messageList = mm.GetListSendbox();
             return View(messageList);
         }
     }
