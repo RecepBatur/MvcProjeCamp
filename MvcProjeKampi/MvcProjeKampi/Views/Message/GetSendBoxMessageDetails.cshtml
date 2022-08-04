@@ -1,6 +1,6 @@
 ﻿@model EntityLayer.Concrete.Message
 @{
-    ViewBag.Title = "GetInboxMessageDetails";
+    ViewBag.Title = "GetSendBoxMessageDetails";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
@@ -13,7 +13,7 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1>Gelen Mesaj Detayları</h1>
+                    <h1>Gönderilen Mesaj Detayları</h1>
                 </div>
             </div>
         </div><!-- /.container-fluid -->
@@ -40,12 +40,12 @@
                                 <h5><b>Konu:</b> @Html.DisplayFor(x => x.Subject)</h5>
                                 <br />
                                 <h6>
-                                    <b>Mail:</b> @Html.DisplayFor(x => x.SenderMail)
+                                    <b>Alıcı:</b> @Html.DisplayFor(x => x.ReceiverMail)
                                     <span class="mailbox-read-time float-right">@*@DateTime.Parse(Html.DisplayFor(x=>x.MessageDate).ToString()).ToShortDateString()*@ @Model.MessageDate.ToString("dd-MMM-yyyy")</span>
                                 </h6>
                             </div>
                             <!-- /.mailbox-read-info -->
-                            <!-- /.mailbox-controls -->
+                            <!-- /.mailbox-controls --> 
                             <div class="mailbox-read-message">
                                 <p>@Html.DisplayFor(x => x.MessageContent)</p>
 
