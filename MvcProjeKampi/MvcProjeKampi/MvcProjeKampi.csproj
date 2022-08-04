@@ -201,9 +201,15 @@
     <Content Include="AdminLTE-3.0.4\dist\img\default-150x150.png" />
     <Content Include="AdminLTE-3.0.4\dist\img\icons.png" />
     <Content Include="AdminLTE-3.0.4\dist\img\photo1.png" />
+    <Content Include="AdminLTE-3.0.4\dist\img\photo10.jpg" />
     <Content Include="AdminLTE-3.0.4\dist\img\photo2.png" />
     <Content Include="AdminLTE-3.0.4\dist\img\photo3.jpg" />
     <Content Include="AdminLTE-3.0.4\dist\img\photo4.jpg" />
+    <Content Include="AdminLTE-3.0.4\dist\img\photo5.jpg" />
+    <Content Include="AdminLTE-3.0.4\dist\img\photo6.jpg" />
+    <Content Include="AdminLTE-3.0.4\dist\img\photo7.jpg" />
+    <Content Include="AdminLTE-3.0.4\dist\img\photo8.jpg" />
+    <Content Include="AdminLTE-3.0.4\dist\img\photo9.jpg" />
     <Content Include="AdminLTE-3.0.4\dist\img\prod-1.jpg" />
     <Content Include="AdminLTE-3.0.4\dist\img\prod-2.jpg" />
     <Content Include="AdminLTE-3.0.4\dist\img\prod-3.jpg" />
