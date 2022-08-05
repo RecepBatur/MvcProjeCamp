@@ -113,6 +113,10 @@
     <Compile Include="Migrations\202208042130267_addImageFileClass.designer.cs">
       <DependentUpon>202208042130267_addImageFileClass.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202208051442154_addAdmin.cs" />
+    <Compile Include="Migrations\202208051442154_addAdmin.designer.cs">
+      <DependentUpon>202208051442154_addAdmin.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -156,6 +160,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202208042130267_addImageFileClass.resx">
       <DependentUpon>202208042130267_addImageFileClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202208051442154_addAdmin.resx">
+      <DependentUpon>202208051442154_addAdmin.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />
