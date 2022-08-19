@@ -15,7 +15,9 @@ namespace MvcProjeKampi.Controllers
 
         public ActionResult MyContent()
         {
-            var contentValues = cm.GetListByWriter();
+            int id;
+            id = 2;
+            var contentValues = cm.GetListByWriter(id);
             return View(contentValues);
 
         }
